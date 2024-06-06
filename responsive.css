@@ -1,0 +1,50 @@
+@media all and (max-width:600px){
+    .header-right {
+        display: none;
+      }
+      .header-button {
+        display: block;
+        margin-left: auto;
+      }
+}
+
+
+@media all and (max-width: 780px) {
+  
+
+  .img-zoom {
+    width: 100%;
+  }
+
+  .content-wrapper {
+    flex-direction: column;
+    height: auto;
+    align-items: center;
+  }
+
+  .players,
+  .history,
+  .official {
+    width: 70%;
+    height: auto; 
+    margin-bottom: 20px; 
+  }
+
+  
+
+  .players {
+    margin-top: 100px;
+  }
+
+  .official{
+    margin-bottom: 100px;
+  }
+
+  .players img,
+  .history img,
+  .official img {
+    width: 100%;
+    height: auto; 
+    object-fit: contain; 
+  }
+}
