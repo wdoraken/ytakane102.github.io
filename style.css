@@ -84,8 +84,6 @@ a {
 a:hover {
   opacity: 1;
 }
-.img-zoom{
-  padding-top:10px;
 
 img {
   object-fit: cover;
