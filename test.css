@@ -1,0 +1,49 @@
+html {
+    font-size: 100%;
+   
+}
+body{
+    background-color: #fff;
+    line-height: 1.7;
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+
+
+
+
+.question{
+    max-width: 1120px;
+    margin: auto;
+    padding:  1.5rem; 
+    background-color: #fff;
+}
+
+.question p{
+    margin: 1rem 0 2rem;
+}
+
+.underline_black{
+
+    text-decoration:underline solid #000000;
+    
+}
+
+#pagination-controls {
+    display: flex;
+    justify-content: space-between; /* ボタンを右寄せ */
+    gap: 10px; /* ボタン間の間隔を設定 */
+}
+
+#submit-quiz {
+    margin-left: auto; /* 左側の余白を自動設定して右寄せ */
+    margin-right: 0;   /* 右側の余白をゼロ */
+    display: block;    /* ボタンを独立した要素として扱う */
+  }  
+
+.mb-4 {
+    margin-bottom: 2rem; /* 問題間の余白を広げる */
+}
+
