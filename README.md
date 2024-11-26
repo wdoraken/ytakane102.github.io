@@ -1,1 +1,1 @@
-# ytakane102.github.io
+# ytkane102.github.io
