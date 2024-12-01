@@ -6,7 +6,7 @@ const pagePrefix = "page3"; // 1ページ目の識別子
   });
 
   document.getElementById('submit-quiz').addEventListener('click', () => {
-    window.location.href = "result.html"; // 特定のページに戻る
+    window.location.href = "result.html"; 
   });
   
   const quiz = [
