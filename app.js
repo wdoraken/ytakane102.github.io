@@ -5,7 +5,7 @@ document.getElementById('next-button').addEventListener('click', () => {
 });
 
 document.getElementById('prev-button').addEventListener('click', () => {
-  window.location.href = "ytkane102.github.io"; // 特定のページに戻る
+  window.location.href = "list.html"; // 特定のページに戻る
 });
 
 const quiz = [
