@@ -64,8 +64,7 @@
 
     /* フッター */
     .page-footer {
-        background-image: url(../images/footer-l.webp);
-        padding-top: 12rem;
+        padding-top: 8rem;
     }
 }
 
