@@ -148,6 +148,10 @@ iframe {
 
 /* フッター
 ------------------------------- */
+.page-footer{
+    padding-top: 9rem;
+}
+
 .info {
     background-color: #fff;
     border-radius: 1000px;
