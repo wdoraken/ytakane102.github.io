@@ -47,3 +47,7 @@ a {
     margin-bottom: 2rem; /* 問題間の余白を広げる */
 }
 
+label.d-block {
+    margin-left: 30px; /* インデントの量を調整 */
+  }
+
