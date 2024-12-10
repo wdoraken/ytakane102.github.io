@@ -86,7 +86,7 @@ const correctAnswers = {
   // 「最初に戻る」ボタンの動作
   document.getElementById('retry-button').addEventListener('click', () => {
     localStorage.clear(); // 保存されたデータをクリア
-    window.location.href = "top.html"; // 最初のページ（または指定のページ）に戻る
+    window.location.href = "wdoraken.github.io"; // 最初のページ（または指定のページ）に戻る
   });
   
   // ページロード時に結果を表示
